@@ -1,3 +1,6 @@
 [submodule "Calculator"]
 	path = Calculator
 	url = https://github.com/aholainenviivi/Calculator.git
+[submodule "SDSM-AppLauncher"]
+	path = SDSM-AppLauncher
+	url = https://github.com/aholainenviivi/SDSM-AppLauncher.git
