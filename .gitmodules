@@ -4,3 +4,6 @@
 [submodule "SDSM-AppLauncher"]
 	path = SDSM-AppLauncher
 	url = https://github.com/aholainenviivi/SDSM-AppLauncher.git
+[submodule "SDSM-ListApp"]
+	path = SDSM-ListApp
+	url = https://github.com/aholainenviivi/SDSM-ListApp.git
