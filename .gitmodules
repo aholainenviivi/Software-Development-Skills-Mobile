@@ -7,3 +7,6 @@
 [submodule "SDSM-ListApp"]
 	path = SDSM-ListApp
 	url = https://github.com/aholainenviivi/SDSM-ListApp.git
+[submodule "SDSM-Project"]
+	path = SDSM-Project
+	url = https://github.com/aholainenviivi/SDSM-Project.git
